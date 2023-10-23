@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "375021151606",
+    "project_id": "vijjio-f209e",
+    "storage_bucket": "vijjio-f209e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375021151606:android:7033a5afb97a97980cc657",
+        "android_client_info": {
+          "package_name": "com.vijjio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375021151606-f1u0aedgqvuli5f5drljph422lfd245l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdj-xZ7QYLRYNUd54P7LAeNGd1M41qnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375021151606-f1u0aedgqvuli5f5drljph422lfd245l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375021151606-o7gg9p41dnsqligko0gtrn4lc21nnbdp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vijjio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
